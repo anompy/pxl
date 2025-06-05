@@ -33,7 +33,6 @@ const audiosToLoad = {
     jump: 'https://anompy.github.io/pxl/assets/audio/jump.mp3',
     slide: 'https://anompy.github.io/pxl/assets/audio/slide.mp3',
     boom: 'https://anompy.github.io/pxl/assets/audio/vine-boom.mp3',
-    start: 'https://anompy.github.io/pxl/assets/audio/game-start.mp3',
     music: 'https://anompy.github.io/pxl/assets/audio/game-music.mp3',
     over: 'https://anompy.github.io/pxl/assets/audio/game-over.mp3',
 };
